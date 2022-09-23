@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     min-height: 600px;
-    background-color: #f19393;
+    background-color: #f0b8b8;
     background-size: cover;
     background-position: center bottom;
     background-repeat: no-repeat;
@@ -41,14 +41,14 @@ body {
   
   button {
     margin-top: 12px;
-    padding: 4px 8px;
+    padding: 8px 16px;
     border-radius: 8px;
-    background: hsl(0, 0%, 100%);
+    background: hsl(0, 38%, 92%);
   }
   
   .resultado {
     color: #ffffff;
     text-align: center;
-    margin-top: 16px;
+    margin-top: 20px;
   }
   
